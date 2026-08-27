@@ -1,1 +1,5 @@
-"Week 1: verified C++ environment"
+
+ git init
+ git add hello.cpp
+ git commit -m "Week 1: verified C++ environment"
+ git log --oneline
